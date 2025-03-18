@@ -1,23 +1,49 @@
 ## 0. Change Log
 N/A
 
-# Assessment 3 - Vanilla JS: LurkForWork
+**评估任务 3 - 纯 JavaScript: LurkForWork**
 
-[Please see course website for full spec](https://cgi.cse.unsw.edu.au/~cs6080/NOW/assessments/assignments/ass3)
 
-This assignment is due Friday the 4th of April, 8pm.
 
-**Please run `./util/setup.sh` in your terminal before you begin. This will set up some checks in relation to the "Git Commit Requirements".**
+[请查看课程网站获取完整说明](https://cgi.cse.unsw.edu.au/~cs6080/NOW/assessments/assignments/ass3)
 
-## 2. The Task (Frontend)
 
-Your task is to build a frontend for a UNSW rip-off version of the popular professional social networking tool [LinkedIn](https://linkedin.com/). If you haven't used this application before, we would recommend creating your own LinkedIn profile - it's probably good for your career anyway!
 
-UNSW's rip-off of LinkedIn is called "LurkForWork". However, you don't have to build the entire application. You only have to build the frontend. The backend is already built for you as an express server built in NodeJS (see section 3.2).
+本次作业的截止日期为**4 月 4 日（星期五）晚上 8 点**。
 
-Instead of providing visuals of what the frontend (your task) should look like, we instead are providing you with a number of clear and short requirements about expected features and behaviours.
 
-The requirements describe a series of **screens**. Screens can be popups/modals, or entire pages. The use of that language is so that you can choose how you want it to be displayed. A screen is essentially a certain state of your web-based application.
+
+**请在开始之前，在终端运行以下命令：**
+
+```
+./util/setup.sh
+```
+
+**这将设置与“Git 提交要求”相关的一些检查。**
+
+**2. 任务（前端部分）**
+
+
+
+你的任务是**构建 UNSW 版 LinkedIn（LurkForWork）的前端**，这是一个模仿流行的专业社交网络工具 [LinkedIn](https://linkedin.com/) 的项目。如果你之前没有使用过 LinkedIn，我们建议你注册一个账号体验一下——这对你的职业发展可能也会有帮助！
+
+
+
+UNSW 版的 LinkedIn 名为 **“LurkForWork”**。不过，你**不需要构建整个应用**，只需要完成前端部分。后端已经为你准备好，它是一个基于 **Node.js 的 Express 服务器**（详见 **3.2 节**）。
+
+
+
+我们**不会提供前端的视觉设计**，而是提供一系列**清晰且简洁的功能和行为要求**，用来定义前端应该具备的特性。
+
+
+
+这些要求描述了一系列**“界面”**（Screens）。
+
+​	•	界面可以是**弹出框（Popups/Modals）**，也可以是**完整的页面**。
+
+​	•	这里使用 **“界面”**（Screens）这个词，是为了让你自由选择如何展示这些内容。
+
+​	•	一个 **“界面”** 本质上就是你网页应用的某个状态（state）。
 
 ### 2.1. Milestone 1 - Registration & Login (10%)
 
@@ -72,7 +98,7 @@ Each job should display:
   * How many comments the job post has
 
 ### 2.3. Milestone 3 - Advanced Feed (10%)
- 
+
 Milestone 3 focuses on a richer UX and will require some backend interaction.
 
 #### 2.3.1. Show likes on a job
