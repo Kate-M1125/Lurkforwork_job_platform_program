@@ -1,10 +1,4 @@
-0. Change Log
-29/3: Update on the 2.2.1 - Author details
 
-Assessment 3 - Vanilla JS: LurkForWork
-Please see course website for full spec
-This assignment is due Friday the 4th of April, 8pm.
-Please run ./util/setup.sh in your terminal before you begin. This will set up some checks in relation to the "Git Commit Requirements".
 
 2. The Task (Frontend)
 Your task is to build a frontend for a UNSW rip-off version of the popular professional social networking tool LinkedIn. If you haven't used this application before, we would recommend creating your own LinkedIn profile - it's probably good for your career anyway!
